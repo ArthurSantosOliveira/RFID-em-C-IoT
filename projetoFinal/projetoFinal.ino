@@ -42,11 +42,11 @@ const uint32_t intervAtualizacao = 60000; // 1 minuto em milisegundos
 uint32_t timestamp = 0;   
 
 //Conexão Hive e Wifi
-const char* ssid = "Multilaser_clara2";
-const char* password = "clara123";
-const char* mqtt_server = "efe87387e73f42ae8407d908b74d566b.s1.eu.hivemq.cloud";
-const char* mqtt_username = "Arthur";
-const char* mqtt_password = "IotPythonC1";
+const char* ssid = "";
+const char* password = "";
+const char* mqtt_server = "";
+const char* mqtt_username = "";
+const char* mqtt_password = "";
 const int mqtt_port = 8883;
 const char* mqtt_topic = "rfid_tags";
 static const char *root_ca PROGMEM = R"EOF(
