@@ -2,9 +2,9 @@
 Projeto desenvolvido usando um ESP8266 e um módulo RC522 para ler o cartão.
 Leitor de Tag RFID que utilizam o protocolo Mifare e enviar o Id das tags juntamente com o horário de leitura, para o site da Hive usando o protocolo de comunicação MQTT. 
 O processo de utilização do Node é feito como padrão utilizada em qualquer outro tutorial na internet.
+##
 
 Lado esquerdo RC522, lado direito ESP8266
-
 Vcc <-> 3V3 
 
 RST (Reset) <-> D0
