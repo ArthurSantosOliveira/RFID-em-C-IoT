@@ -12,9 +12,9 @@ MOSI (Master Output Slave Input) <-> D7
 SCK (Serial Clock) <-> D5
 SS/SDA (Slave select) <-> D8
 
-Bibliotecas instaladas pela IDE:
-NTPClient by Fabrice, Versão: 3.2.1
-MRFC522 by GithubCommunity, Versão: 1.4.10
-PubSubClient by Nick O'Leary , Versão: 2.8 
+Bibliotecas instaladas pela IDE: -
+NTPClient by Fabrice, Versão: 3.2.1 -
+MRFC522 by GithubCommunity, Versão: 1.4.10 -
+PubSubClient by Nick O'Leary , Versão: 2.8 - 
 
 As bibliotecas .zip estão na pasta bibliotecas
