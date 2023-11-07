@@ -4,11 +4,17 @@ Leitor de Tag RFID que utilizam o protocolo Mifare e enviar o Id das tags juntam
 O processo de utilização do Node é feito como padrão utilizada em qualquer outro tutorial na internet.
 
 Lado esquerdo RC522, lado direito ESP8266
+
 Vcc <-> 3V3 
+
 RST (Reset) <-> D0
+
 GND (Terra) <-> GND
+
 MISO (Master Input Slave Output) <-> D6
+
 MOSI (Master Output Slave Input) <-> D7
+
 SCK (Serial Clock) <-> D5
 SS/SDA (Slave select) <-> D8
 
