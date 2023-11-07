@@ -16,10 +16,15 @@ MISO (Master Input Slave Output) <-> D6
 MOSI (Master Output Slave Input) <-> D7
 
 SCK (Serial Clock) <-> D5
+
 SS/SDA (Slave select) <-> D8
 
 Bibliotecas instaladas pela IDE: 
-NTPClient by Fabrice, Versão: 3.2.1 - MRFC522 by GithubCommunity, Versão: 1.4.10 - PubSubClient by Nick O'Leary , Versão: 2.8 - 
+NTPClient by Fabrice, Versão: 3.2.1 - 
+MRFC522 by GithubCommunity, Versão: 1.4.10 - 
+PubSubClient by Nick O'Leary , Versão: 2.8 - 
 
 As bibliotecas .zip estão na pasta bibliotecas.
 Algumas dessas bibliotecas podem não estar sendo utilizada na versão final do código, entratando foram usadas no seu desenvolvimento.
+
+Estarei disponibilando também o drive CH34X que utilizei para resolver o problema que tive com relação a porta UBS -> https://sparks.gogo.co.nz/ch340.html
