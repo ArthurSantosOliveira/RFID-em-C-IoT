@@ -18,6 +18,7 @@ MOSI (Master Output Slave Input) <-> D7
 SCK (Serial Clock) <-> D5
 
 SS/SDA (Slave select) <-> D8
+##
 
 Bibliotecas instaladas pela IDE: 
 NTPClient by Fabrice, Versão: 3.2.1 - 
